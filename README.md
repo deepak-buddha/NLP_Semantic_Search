@@ -115,8 +115,9 @@ the parser seems to fail for an unknown reason.
         > file.\
         > *(below is an image of the terminal code)*
 
-![](report/4.jpg)
-b.  Take the output.txt file as input to my first jupyter notebook (
+       ![](report/4.jpg)
+
+    b.  Take the output.txt file as input to my first jupyter notebook (
     > **EncodingProcessing.ipynb**) and process it there.
 
 **Further processing and explanations for the rest of the process are
