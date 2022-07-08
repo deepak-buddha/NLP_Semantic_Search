@@ -7,6 +7,9 @@ through with the process of designing a search and ranking system for
 query matching. (For step by step explanation, check jupyter notebooks
 for markdowns and comments)
 
+Please download the complete repository from here:
+https://drive.google.com/file/d/18f17DnRwaoutOFJYNMcuzxqrvGx6N8ed/view?usp=sharing
+
 ## Layout of my Repo
 
 On extracting the my repo, the contents of the folder look as follows
